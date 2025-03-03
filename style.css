@@ -1,0 +1,12 @@
+.form-container{
+    border: dotted 5px pink;
+    padding: 25px;
+    margin: 0 auto;
+    width: 70%g;
+
+}
+.inner_form-container{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 5%;
+}
